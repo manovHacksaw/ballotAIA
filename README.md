@@ -31,7 +31,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ballotaia.git
+   git clone https://github.com/manovHacksaw/ballotaia.git
    cd ballotaia
    cd client
 
@@ -52,7 +52,7 @@ To deploy Ballotaia’s smart contracts to a local AIA blockchain node or a test
 
 1. Start a local AIA blockchain node::
    ```bash
-   git clone https://github.com/yourusername/ballotaia.git
+   git clone https://github.com/manovHacksaw/ballotaia.git
    cd ballotaia
    cd web3
    
